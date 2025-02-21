@@ -1,0 +1,10 @@
+.map-div img {
+    width: auto;
+    max-width: none;
+    height: auto;
+    display: block;
+}
+
+body{
+    padding: 100px;
+}
