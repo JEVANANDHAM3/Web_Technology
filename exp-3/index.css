@@ -1,0 +1,10 @@
+.external{
+    display: flex;
+    justify-content: center;
+}
+.external p {
+    border: 1px solid black;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
