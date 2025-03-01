@@ -1,18 +1,14 @@
-.main-div{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-form{
-    display: inline-flex;
-    flex-direction: column;
-    gap: 20px;
-}
-.div-btn{
-    display: flex;
-    justify-content: center;
-}
 body{
     display: flex;
     justify-content: center;
+}
+.div-form{
+    border: 1px solid;
+    padding: 30px;
+    border-radius: 30px;
+}
+.div-btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center ;
 }

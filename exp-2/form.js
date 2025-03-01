@@ -32,5 +32,5 @@ function printform() {
         alert("Please enter a valid 10-digit phone number.");
         return; 
     }
-    console.log(fname)
+    alert("Form is a valid form");
 }
